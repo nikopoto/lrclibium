@@ -5,10 +5,9 @@
 ---
 
 ## Features
-
 - Supports any music player that exposes itself to mpris with metadata
 - Logs errors to `lyrics_errors.log` without interrupting display
-<small>I know there's not many but you can always contribute</small>
+
 
 ---
 
